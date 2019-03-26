@@ -14,4 +14,4 @@ If you execute dmopwc.py, you can reproduce our model.
 
 ```
 python dmopwc.py --max_iter 1200 --text_iter 200 --label MMSE --feature sparse --mode lifelong
-'''
+```
