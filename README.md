@@ -1,4 +1,4 @@
-# MopWC
+# Deep Multi-order Preserving Weight Consolidation (MopWC)
 
 ## Running Code
 
